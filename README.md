@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Php,Python**
 
-- 📫 How to reach me **rabing59@gmail.com**
+- 📫 How to reach me **g.rabin@anysense.co.jp**
 
 - 📄 Know about my experiences [rabingurung.com/resume](rabingurung.com/resume)
 
