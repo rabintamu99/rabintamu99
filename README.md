@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ikigai](ikigai.com)
 
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **Next.Js, Ruby on Rails**
 
 - 👯 I’m looking to collaborate on [ikigai](ikigai.com)
 
