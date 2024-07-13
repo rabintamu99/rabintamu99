@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rabintamu99" target="blank"><img src="https://img.shields.io/twitter/follow/rabintamu99?logo=twitter&style=for-the-badge" alt="rabintamu99" /></a> </p>
 
-- 🔭 I’m currently working on [Ikigai](ikigai.com)
+- 🔭 I’m currently working on [SitePulse](ikigai.com)
 
 - 🌱 I’m currently learning **Next.Js, Ruby on Rails**
-
-- 👯 I’m looking to collaborate on [ikigai](ikigai.com)
-
-- 🤝 I’m looking for help with [ikigai](ikigai.com)
 
 - 👨‍💻 All of my projects are available at [rabingurung.com](rabingurung.com)
 
