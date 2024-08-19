@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Next.Js, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [rabing.dev](rabing.dev)
+- 👨‍💻 All of my projects are available at [rabing.dev](https://rabing.dev)
 
-- 📝 I regularly write articles on [rabing.dev/blog](rabing.dev/blog)
+- 📝 I regularly write articles on [rabing.dev/blog](https://rabing.dev/blog)
 
 - 💬 Ask me about **Php,Python**
 
 - 📫 How to reach me **g.rabin@anysense.co.jp**
 
-- 📄 Know about my experiences [rabing.dev/resume](rabing.dev/resume)
+- 📄 Know about my experiences [rabing.dev/resume](https://rabing.dev/resume)
 
 - ⚡ Fun fact **I think I am funny**
 
