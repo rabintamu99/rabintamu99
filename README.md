@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **g.rabin@anysense.co.jp**
 
-- 📄 Know about my experiences [rabingurung.com/resume](rabing.dev/resume)
+- 📄 Know about my experiences [rabing.dev/resume](rabing.dev/resume)
 
 - ⚡ Fun fact **I think I am funny**
 
