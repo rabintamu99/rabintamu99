@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SitePulse](ikigai.com)
 
-- 🌱 I’m currently learning **Solidity, Blockchain**
+- 🌱 I’m currently learning **Solidity, Blockchain,AI**
 
 - 👨‍💻 All of my projects are available at [rabing.dev](https://rabing.dev)
 
